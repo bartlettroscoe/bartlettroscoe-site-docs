@@ -5,7 +5,7 @@ permalink: /reading-list/
 ---
 
 This page lists some books about various aspects of software development and
-software engineering that I (Roscoe Bartlett) have read over the years,
+software engineering that I (Roscoe Bartlett) have read over the years;
 especially during a particularly intense period in the 2007-2008 time frame.
 I provide a brief overview of the content of each covered book and why I think
 it is useful (or essential) to read the book and what to look for in each
